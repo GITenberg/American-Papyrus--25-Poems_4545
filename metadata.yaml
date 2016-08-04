@@ -1,0 +1,22 @@
+_repo: American-Papyrus--25-Poems_4545
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sills, Steven David Justin
+    gutenberg_agent_id: '1500'
+    url: http://www.gutenberg.org/2009/agents/1500
+description: ''
+gutenberg_issued: '2003-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4545'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcc 'PS'
+- !lcsh 'Poetry'
+- GITenberg
+title: 'American Papyrus: 25 Poems'
+url: http://www.gutenberg.org/ebooks/4545
